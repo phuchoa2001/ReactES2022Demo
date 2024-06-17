@@ -1,5 +1,3 @@
-# ReactES2022Demo
-
 ## Description
 **ReactES2022Demo** is a ReactJS project designed to demonstrate the integration and usage of new ES2022 features. This project aims to help developers understand how to incorporate the latest JavaScript enhancements into their React applications while maintaining compatibility with older JavaScript versions through Babel.
 
@@ -7,15 +5,13 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 To set up and run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ReactES2022Demo.git
+    git clone https://github.com/phuchoa2001/ReactES2022Demo.git
     cd ReactES2022Demo
     ```
 

@@ -1,5 +1,3 @@
-Based on the provided sources and best practices for creating a professional README file, here is a comprehensive README for the **ReactES2022Demo** project:
-
 # ReactES2022Demo
 
 ## Description
